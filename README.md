@@ -1,10 +1,9 @@
-# Solidity 2 UML
 
 [![npm (tag)](https://img.shields.io/npm/v/sol2uml)](https://www.npmjs.com/package/sol2uml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/naddison?style=social)](https://twitter.com/naddison)
 
 A visualisation tool for [Solidity](https://solidity.readthedocs.io/) contracts featuring:
-1. [Unified Modeling Language (UML)](https://en.wikipedia.org/wiki/Unified_Modeling_Language) [class diagram](https://en.wikipedia.org/wiki/Class_diagram) generator for Solidity contracts.
+1. [Unified Modeling Language (UML)](https://en.wikipedia.org/wiki/Unifiem](https://en.wikipedia.org/wiki/Class_diagram) generator for Solidity contracts.
 2. Contract storage layout diagrams.
 3. Flatten Solidity files on Etherscan-like explorers to a local file.
 4. Diff contracts on Etherscan-like explorers.
